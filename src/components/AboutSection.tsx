@@ -4,7 +4,7 @@ const highlights = [
   {
     icon: Brain,
     title: 'Generative AI Specialist',
-    description: '3.8 years of expertise in LLM models, Ollama, Hugingface, vector databases, Azure AI Search.',
+    description: '3.5 years of expertise in LLM models, Ollama, Hugingface, vector databases, Azure AI Search.',
   },
   {
     icon: Code2,
