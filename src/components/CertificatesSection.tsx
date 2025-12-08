@@ -8,7 +8,7 @@ const certificates = [
     description: 'Professional certification for AI/ML contributions at Sutherland Global',
     status: 'earned',
     placeholder: false,
-    image: '/Dipanjan Kulia_page-0001.jpg',
+    image: 'Dipanjan Kulia_page-0001.jpg',
   },
   {
     title: 'ITC Infotech',
@@ -16,7 +16,7 @@ const certificates = [
     description: 'Recognition for contributions to AI product development from ITC Infotech',
     status: 'earned',
     placeholder: false,
-    image: '/certificate_page-0001.jpg',
+    image: 'certificate_page-0001.jpg',
   },
   {
     title: 'Udemy Course Completion on Machine Learning A-Z™',
@@ -24,7 +24,7 @@ const certificates = [
     description: 'Course completion certificate from Udemy',
     status: 'earned',
     placeholder: false,
-    image: '/udemy_certificate-1.jpeg',
+    image: 'udemy_certificate-1.jpeg',
   },
   {
     title: 'Udemy Course Completion on Deep Learning A-Z™',
@@ -32,7 +32,7 @@ const certificates = [
     description: 'Course completion certificate from Udemy',
     status: 'earned',
     placeholder: false,
-    image: '/udemy_certificate-2.jpeg',
+    image: 'udemy_certificate-2.jpeg',
   },
 ];
 

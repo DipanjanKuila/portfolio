@@ -73,7 +73,7 @@ const HeroSection = () => {
               className="border-primary/50 text-foreground hover:bg-primary/10 hover:border-primary font-semibold px-8"
               asChild
             >
-              <a href="/DipanjanKuila.cv.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="DipanjanKuila.cv.pdf" target="_blank" rel="noopener noreferrer">
                 <Eye className="mr-2 w-4 h-4" /> View Resume
               </a>
             </Button>
