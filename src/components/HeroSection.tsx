@@ -49,7 +49,7 @@ const HeroSection = () => {
             className="text-lg text-muted-foreground max-w-2xl mx-auto mb-10 animate-slide-up"
             style={{ animationDelay: '0.3s' }}
           >
-            3.8+ years crafting intelligent solutions with LLMs, RAG architectures,
+            3.5+ years crafting intelligent solutions with LLMs, RAG architectures,
             and agentic workflows. Transforming complex problems into elegant AI-powered experiences.
           </p>
 
