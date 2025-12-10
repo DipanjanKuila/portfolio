@@ -53,7 +53,7 @@ const AboutSection = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I'm an AI Engineer specializing in Generative AI with over 3.8 years of experience 
+                I'm an AI Engineer specializing in Generative AI with over 3.5 years of experience 
                 building enterprise-grade AI products from the ground up. My expertise spans the 
                 entire AI development lifecycle—from architecting RAG pipelines and agentic workflows 
                 to deploying production-ready LLM applications.
@@ -70,7 +70,7 @@ const AboutSection = () => {
 
               <div className="flex items-center gap-4 pt-4">
                 <div className="text-center">
-                  <p className="text-3xl font-bold text-gradient">3.8+</p>
+                  <p className="text-3xl font-bold text-gradient">3.5+</p>
                   <p className="text-sm text-muted-foreground">Years Experience</p>
                 </div>
                 <div className="w-px h-12 bg-border" />

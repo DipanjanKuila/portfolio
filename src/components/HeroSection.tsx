@@ -40,7 +40,7 @@ const HeroSection = () => {
               <span className="text-primary">•</span> Generative AI Specialist
             </p>
             <p className="text-lg sm:text-xl mt-2 text-muted-foreground/80">
-              Building enterprise AI products | Team Lead | AI Architect
+              Building enterprise AI products | Team Lead
             </p>
           </div>
 
